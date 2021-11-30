@@ -1,0 +1,1 @@
+openapi-generator-cli  generate -g python -o oasgen_airbyte_client -i airbyte.yaml

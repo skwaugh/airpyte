@@ -1,9 +1,5 @@
-# airpyte
-Python client for Airbyte API
-
-[comment]: <> (# airbyte-configuration-api-client)
-
-[comment]: <> (A client library for accessing Airbyte Configuration API)
+# airbyte-configuration-api-client
+A client library for accessing Airbyte Configuration API
 
 ## Usage
 First, create a client:
